@@ -1,0 +1,5 @@
+
+      -how to use map operator
+      -what is a callback function
+      -what is a float property in general
+      -how do you set up routes in angular
